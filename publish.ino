@@ -6,9 +6,9 @@
 /****************************************
  * Define Constants
  ****************************************/
-#define TOKEN "BBFF-fXDE7UrMuj70WIQTLrqUsqdRCJtHTe" // Your Ubidots TOKEN
-#define WIFINAME "Protech-it" //Your SSID
-#define WIFIPASS "protech2020" // Your Wifi Pass
+#define TOKEN "" // Your Ubidots TOKEN
+#define WIFINAME "" //Your SSID
+#define WIFIPASS "" // Your Wifi Pass
 int randheart;
 const int trigPin = 2;  //D4
 const int echoPin = 0; 
